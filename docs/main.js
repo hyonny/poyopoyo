@@ -32,7 +32,7 @@ var COLOR_PURPLE = '#bf7fff';
 var app;
 phina.main(function() {
   app = GameApp({
-    title: '1st',
+    title: 'poyopoyo',
     assets: ASSETS,
   });
 
